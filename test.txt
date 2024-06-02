@@ -3,3 +3,4 @@ update on onelinbr
 br4 remote
 br4 5
 br6 remote 1
+br6 remote 2
